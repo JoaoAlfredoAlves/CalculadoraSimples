@@ -52,7 +52,10 @@ class Calculator {
     }
 
     chooseOperation(operation) {
-        if (this.previousOperand != "") {
+
+        if (this.currentOperand === "") return;
+
+        if (this.previousOperand !== "") {
             this.calculate();
         }
 

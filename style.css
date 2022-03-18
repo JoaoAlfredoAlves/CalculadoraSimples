@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #4b086d, #acc0fe);
+    background: linear-gradient(to bottom right, #4b086d, #acc0fe);
 }
 
 .gridContainer {
@@ -63,4 +63,27 @@ body {
 .output > .currentOperand {
     color: white;
     font-size: 2rem;
+}
+
+@media screen and (max-width: 678px) {
+    .gridContainer {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+        min-height: 100vh;
+        grid-template-columns: repeat(4, 50px);
+        grid-template-rows: minmax(50px, auto) repeat(5, 50px);
+    }
+    .gridContainer > button {
+        font-size: 1rem;
+    }
+    .output > .previousOperand {
+        color: rgba(255, 255, 255, 0.75);
+        font-size: 0.75rem;
+    }
+    .output > .currentOperand {
+        color: white;
+        font-size: 1rem;
+    }
+    
 }

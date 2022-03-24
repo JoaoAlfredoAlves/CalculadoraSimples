@@ -6,7 +6,7 @@ Aplicação desenvolvida como atividade para a cadeira de Linguagens de Script m
 
 ## Link para acesso pelo GithubPages
 
-https://joaoalfredoalves.github.io/calculadora/
+https://joaoalfredoalves.github.io/CalculadoraSimples/
 ## Desenvolvido por 
 ### João Alfredo Alves
 <div><a href="https://github.com/JoaoAlfredoAlves"><img src="https://avatars.githubusercontent.com/u/68473607?v=4" alt="Imagem de João Alfredo" width="200"/></a></div>

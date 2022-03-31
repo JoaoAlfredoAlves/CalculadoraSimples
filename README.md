@@ -2,7 +2,10 @@
 
 ## Objetivo da Aplicação
 
-Aplicação desenvolvida como atividade para a cadeira de Linguagens de Script ministrada pelo professor Diogo Moreira para testar os conhecimentos em JS sobre DOM e Eventos.
+Aplicação desenvolvida como atividade para a cadeira de Linguagens de Script ministrada pelo professor Diogo Moreira para testar os conhecimentos em JS sobre:
+
+- DOM
+- Eventos
 
 ## Link para acesso pelo GithubPages
 
